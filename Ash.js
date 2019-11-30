@@ -1,6 +1,6 @@
 //Zen engine Variables
 cd = 1
-is1 = 0
+is1 = 1
 is2 = 0
 is3 = 0
 ram = 100
